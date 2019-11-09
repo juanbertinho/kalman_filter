@@ -12,3 +12,5 @@
   <remap from="imu_data" to="/mobile_base/sensors/imu_data" />    
 
 </node>
+
+</launch>
